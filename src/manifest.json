@@ -109,11 +109,6 @@
     }
   },
 
-  "options_ui": {
-    "page": "options.html",
-    "open_in_tab": false
-  },
-
   "icons": {
     "32": "icons/brain-icon.svg",
     "48": "icons/brain-icon.svg",
